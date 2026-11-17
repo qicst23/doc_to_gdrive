@@ -1,0 +1,201 @@
+debiased_v2_oof_rank,disease_id,disease_name,head_v2_debiased_oof_score,omics_debiased_oof_score,gate_only_no_kg_score,b1_ne_plus_rna_logistic_score,frozen_backbone_z,head_v1_oof_rank,head_v1_oof_score
+1,EFO_1001901,neuroendocrine neoplasm,-2.9542,-0.1794,1.4825,1.2693,0.3329,6,1.7112
+2,EFO_0005220,pulmonary neuroendocrine tumor,-3.1026,-0.2069,1.4825,1.2693,0.3104,86,-1.1763
+3,MONDO_0002120,neuroendocrine carcinoma,-3.1475,-0.4949,1.4825,1.2693,0.4464,517,-3.199
+4,EFO_1001471,Merkel cell skin cancer,-3.2618,-0.9031,1.4825,1.2693,0.6965,76,-1.0677
+5,EFO_0000702,small cell lung carcinoma,-3.424,-0.5286,1.4825,1.2693,0.3227,52,-0.5719
+6,EFO_0008524,small cell carcinoma,-3.5054,-0.4965,1.4825,1.2693,0.2309,109,-1.641
+7,EFO_1000349,Malignant Bladder Paraganglioma,-3.634,-1.372,1.4825,1.2693,0.75,157,-2.3029
+8,MONDO_0021072,sympathetic paraganglioma,-3.7241,-0.7347,1.4825,1.2693,0.2521,313,-2.9113
+9,EFO_0000272,astrocytoma,-3.7352,-0.9767,1.4601,0.4617,0.1681,106,-1.6163
+10,MONDO_0000386,"digestive system neuroendocrine tumor, grade 1/2",-3.7433,-1.161,1.4825,1.2693,0.5238,262,-2.7878
+11,MONDO_0015277,medullary thyroid gland carcinoma,-3.8235,-1.5758,1.4825,1.2693,0.7347,28,0.1271
+12,EFO_0000489,extra-adrenal sympathetic paraganglioma,-3.9264,-1.3705,1.4825,1.2693,0.5517,190,-2.5441
+13,MONDO_0024503,digestive system neuroendocrine neoplasm,-3.9744,-1.1457,1.4825,1.2693,0.3686,59,-0.7187
+14,EFO_1000037,lung carcinoid tumor,-3.9892,-1.2098,1.4825,1.2693,0.4206,388,-3.0141
+15,EFO_1000453,Paraganglioma,-3.999,-0.6503,1.4825,1.2693,0.0157,73,-1.013
+16,EFO_1000397,Non-Cutaneous Melanoma,-4.016,-1.8653,1.4102,0.3492,0.5736,350,-2.9593
+17,EFO_0001071,lung carcinoma,-4.0276,-1.8718,0.593,-0.1251,0.4287,92,-1.3503
+18,MONDO_0004650,malignant carotid body paraganglioma,-4.0618,-1.5563,1.4825,1.2693,0.4893,353,-2.9668
+19,MONDO_0021064,jugulotympanic paraganglioma,-4.0647,-1.2756,1.4825,1.2693,0.3982,510,-3.1909
+20,EFO_0004243,carcinoid tumor,-4.1267,-1.1715,1.4825,1.2693,0.253,44,-0.4486
+21,EFO_0000519,glioblastoma multiforme,-4.1537,-1.5592,1.4601,0.4617,0.2703,50,-0.5233
+22,MONDO_0000376,respiratory system cancer,-4.175,-1.867,0.593,-0.1251,0.2916,360,-2.9732
+23,EFO_0003853,respiratory system neoplasm,-4.1795,-1.8649,0.593,-0.1251,0.2896,273,-2.8125
+24,EFO_0022485,paragangliomas with sensorineural hearing loss,-4.1901,-1.3699,1.4825,1.2693,0.3601,212,-2.6404
+25,EFO_0003769,endocrine neoplasm,-4.1901,-1.9295,0.597,-0.1251,0.317,213,-2.6429
+26,MONDO_0021069,malignant endocrine neoplasm,-4.1923,-1.9673,0.597,-0.1251,0.3527,305,-2.8964
+27,EFO_1000129,Bladder Small Cell Neuroendocrine Carcinoma,-4.2057,-1.5079,1.4825,1.2693,0.5042,1474,-3.7007
+28,Orphanet_271847,Genetic endocrine tumor,-4.2232,-2.0076,0.593,-0.1251,0.3628,977,-3.5001
+29,MONDO_0013602,paragangliomas 5,-4.2328,-1.3828,1.4825,1.2693,0.3196,424,-3.0723
+30,EFO_1000353,Malignant Jugulotympanic Paraganglioma,-4.2406,-1.5563,1.4825,1.2693,0.3494,474,-3.1441
+31,MONDO_0008192,paragangliomas 1,-4.2588,-1.3712,1.4825,1.2693,0.2994,282,-2.8517
+32,MONDO_0018177,glioblastoma,-4.2691,-1.7958,1.4601,0.4617,0.389,859,-3.448
+33,EFO_1000219,Digestive System Mixed Adenoneuroendocrine Carcinoma,-4.2694,-1.6577,1.4825,1.2693,0.546,2037,-3.8794
+34,MONDO_0003274,thoracic cancer,-4.2712,-1.8476,0.593,-0.1251,0.229,363,-2.9784
+35,MONDO_0008903,lung cancer,-4.3183,-1.8721,0.593,-0.1251,0.1146,17,0.7112
+36,EFO_1000288,Head and Neck Paraganglioma,-4.3278,-1.2764,1.4825,1.2693,0.2109,325,-2.9232
+37,EFO_1000045,pancreatic neuroendocrine tumor,-4.3639,-1.7834,1.4825,1.2693,0.5173,25,0.2381
+38,EFO_1000348,Malignant Adrenal Gland Pheochromocytoma,-4.3642,-1.362,1.4825,1.2693,0.254,414,-3.0544
+39,MONDO_0021583,melanocytic skin neoplasm,-4.3735,-1.6651,1.423,0.3781,0.2211,329,-2.9291
+40,EFO_1000360,Malignant Paraganglioma,-4.3742,-1.37,1.4825,1.2693,0.268,371,-2.9927
+41,MONDO_0021052,parasympathetic paraganglioma,-4.375,-1.2766,1.4825,1.2693,0.1735,401,-3.0401
+42,EFO_0000563,large cell neuroendocrine carcinoma,-4.3957,-1.5756,1.4825,1.2693,0.3959,2522,-4.0598
+43,MONDO_0007273,paragangliomas 4,-4.3977,-1.3704,1.4825,1.2693,0.2143,294,-2.8686
+44,MONDO_0002205,vulvar melanoma,-4.4031,-2.0124,1.4102,0.3492,0.4134,669,-3.325
+45,EFO_0007331,islet cell tumor,-4.4084,-1.7835,1.4825,1.2693,0.5215,149,-2.2356
+46,MONDO_0002898,skin cancer,-4.4324,-1.6468,1.423,0.3781,0.1519,48,-0.502
+47,EFO_0000632,oligodendroglioma,-4.4331,-1.7236,1.4601,0.4617,0.2086,400,-3.0335
+48,EFO_0005543,glioma,-4.4359,-1.4394,1.4601,0.4617,-0.0172,90,-1.2924
+49,EFO_1000403,Ocular Melanoma,-4.4551,-2.0131,1.4102,0.3492,0.3708,466,-3.1306
+50,EFO_0000239,adrenal gland pheochromocytoma,-4.4612,-1.3622,1.4825,1.2693,0.1763,21,0.4096
+51,EFO_0020005,pheochromocytoma-paraganglioma,-4.4782,-1.3716,1.4825,1.2693,0.1652,793,-3.4117
+52,EFO_1000090,Appendix Goblet Cell Carcinoid,-4.483,-1.8665,1.4825,1.2693,0.5345,598,-3.2723
+53,MONDO_0003525,pancreatic gastrin-producing neuroendocrine tumor,-4.4903,-1.979,1.4825,1.2693,0.5967,148,-2.1988
+54,MONDO_0100342,malignant glioma,-4.5002,-1.4981,1.4601,0.4617,-0.0038,103,-1.5598
+55,EFO_1000128,Bladder Paraganglioma,-4.5217,-1.3718,1.4825,1.2693,0.1501,818,-3.4253
+56,MONDO_0002995,"small intestine neuroendocrine tumor, well differentiated, low or intermediate grade",-4.5287,-1.811,1.4825,1.2693,0.449,560,-3.2368
+57,EFO_0002939,medulloblastoma,-4.5391,-1.7954,1.4601,0.4617,0.1515,122,-1.8259
+58,MONDO_0021053,carotid body paraganglioma,-4.5462,-1.3721,1.4825,1.2693,0.1257,438,-3.0903
+59,MONDO_0003960,pulmonary large cell neuroendocrine carcinoma,-4.5695,-1.5747,1.4825,1.2693,0.2854,1203,-3.5941
+60,MONDO_0003646,rectum neuroendocrine neoplasm,-4.5707,-1.888,1.4825,1.2693,0.4757,290,-2.8629
+61,MONDO_0021533,intestinal neuroendocrine tumor G1,-4.578,-1.8122,1.4825,1.2693,0.4208,341,-2.9499
+62,EFO_1000621,Vagus Nerve Paraganglioma,-4.5781,-1.5563,1.4825,1.2693,0.1418,126,-1.8594
+63,MONDO_0023206,functional pancreatic neuroendocrine tumor,-4.5896,-1.8675,1.4825,1.2693,0.4533,340,-2.9496
+64,MONDO_0024638,pancreatic gastrinoma,-4.5988,-1.979,1.4825,1.2693,0.5104,211,-2.6399
+65,EFO_1001928,small intestine neuroendocrine tumor,-4.6017,-1.8112,1.4825,1.2693,0.4012,548,-3.2264
+66,Orphanet_68336,Rare genetic tumor,-4.6023,-1.8524,0.593,-0.1251,-0.0627,552,-3.2289
+67,EFO_1001183,skin appendage carcinoma,-4.6037,-2.364,1.423,0.3781,0.5647,1702,-3.7841
+68,MONDO_0002883,intestinal neuroendocrine neoplasm,-4.6041,-1.7843,1.4825,1.2693,0.3963,492,-3.1679
+69,MONDO_0002882,colon neuroendocrine neoplasm,-4.6141,-1.8674,1.4825,1.2693,0.4267,646,-3.3081
+70,MONDO_0003524,gastric gastrin-producing neuroendocrine tumor,-4.6253,-1.982,1.4825,1.2693,0.5127,225,-2.6876
+71,EFO_0000549,insulinoma,-4.6271,-1.8668,1.4825,1.2693,0.4295,245,-2.7377
+72,MONDO_0000544,mucosal melanoma,-4.6381,-2.4508,1.4102,0.3492,0.5898,596,-3.272
+73,MONDO_0015065,"ileal neuroendocrine tumor, well differentiated, low or intermediate grade",-4.6413,-1.8877,1.4825,1.2693,0.444,1192,-3.5887
+74,EFO_1000440,Pancreatic Gastrinoma,-4.6514,-1.9791,1.4825,1.2693,0.4974,183,-2.49
+75,MONDO_0000540,small intestinal neuroendocrine tumor G1,-4.6518,-1.8121,1.4825,1.2693,0.3713,745,-3.3821
+76,EFO_0000389,cutaneous melanoma,-4.6591,-1.7944,1.4102,0.3492,0.088,20,0.4185
+77,MONDO_0024677,pancreatic insulinoma,-4.663,-1.8674,1.4825,1.2693,0.3675,113,-1.7186
+78,EFO_0000621,neuroblastoma,-4.664,-1.5765,1.4825,1.2693,0.1566,58,-0.6883
+79,MONDO_0019964,thymic neuroendocrine tumor,-4.6727,-1.9798,1.4825,1.2693,0.4753,756,-3.3866
+80,MONDO_0020690,adult glioblastoma,-4.6762,-2.4842,1.4601,0.4617,0.6062,393,-3.0221
+81,MONDO_0003111,gastric neuroendocrine neoplasm,-4.6861,-1.9802,1.4825,1.2693,0.471,704,-3.3533
+82,EFO_1001769,carcinoid heart disease,-4.6894,-1.9813,1.4825,1.2693,0.499,214,-2.6498
+83,MONDO_0015068,rectal neuroendocrine tumor,-4.6899,-1.8879,1.4825,1.2693,0.3974,385,-3.0071
+84,MONDO_0024642,gastric neuroendocrine tumor G2,-4.7011,-2.1412,1.4825,1.2693,0.4782,283,-2.8544
+85,MONDO_0015067,"neuroendocrine tumor of the colon, well differentiated, low or intermediate grade tumor",-4.7096,-1.9804,1.4825,1.2693,0.4616,603,-3.2754
+86,MONDO_0024502,gallbladder neuroendocrine neoplasm,-4.7119,-1.812,1.4825,1.2693,0.3153,319,-2.9171
+87,MONDO_0003504,anal canal neuroendocrine neoplasm,-4.7248,-1.981,1.4825,1.2693,0.4397,429,-3.0824
+88,EFO_1000300,Ileal Neuroendocrine Tumor G1,-4.7267,-1.9793,1.4825,1.2693,0.4462,1181,-3.5841
+89,EFO_1000097,Atypical Carcinoid Tumor,-4.7286,-1.9796,1.4825,1.2693,0.4488,227,-2.6899
+90,EFO_1000308,Jejunal Neuroendocrine Tumor G1,-4.7308,-1.9816,1.4825,1.2693,0.4289,541,-3.2233
+91,EFO_0002501,anaplastic oligodendroglioma,-4.7459,-2.2676,1.4601,0.4617,0.4164,629,-3.2949
+92,MONDO_0015062,"gastric neuroendocrine tumor, well differentiated, low or intermediate grade",-4.7535,-1.9802,1.4825,1.2693,0.4272,1089,-3.5485
+93,EFO_1000094,Ascending Colon Neuroendocrine Tumor G1,-4.7574,-2.1412,1.4825,1.2693,0.407,223,-2.6858
+94,MONDO_0004334,non-functional pancreatic neuroendocrine tumor,-4.7643,-2.1412,1.4825,1.2693,0.4125,221,-2.6823
+95,MONDO_0021634,epithelial skin neoplasm,-4.7734,-2.1925,1.423,0.3781,0.3109,667,-3.324
+96,MONDO_0003865,acral lentiginous melanoma,-4.7801,-2.4504,1.4102,0.3492,0.4777,365,-2.9875
+97,MONDO_0015069,neuroendocrine tumor of the anal canal,-4.7826,-1.981,1.4825,1.2693,0.4101,398,-3.0306
+98,MONDO_0015066,"neuroendocrine tumor of the appendix, well differentiated, low or intermediate grade",-4.7866,-1.9807,1.4825,1.2693,0.41,1564,-3.7353
+99,MONDO_0024501,appendix neuroendocrine neoplasm,-4.7875,-1.9807,1.4825,1.2693,0.4112,1395,-3.6756
+100,MONDO_0021633,cerebral astrocytoma,-4.7892,-2.3071,1.4601,0.4617,0.406,624,-3.2921
+101,EFO_0004193,basal cell carcinoma,-4.7976,-2.2986,1.423,0.3781,0.3942,27,0.1486
+102,MONDO_0003523,gastrin-producing neuroendocrine tumor,-4.7983,-1.9801,1.4825,1.2693,0.3814,436,-3.0882
+103,EFO_1000195,Colorectal Neuroendocrine Tumor G1,-4.8021,-1.9795,1.4825,1.2693,0.3833,880,-3.4564
+104,MONDO_0004411,duodenal gastrin-producing neuroendocrine tumor,-4.8021,-1.9799,1.4825,1.2693,0.3855,446,-3.0975
+105,MONDO_0015064,"jejunal neuroendocrine tumor, well differentiated, low or intermediate grade",-4.8036,-1.9816,1.4825,1.2693,0.3867,802,-3.4153
+106,MONDO_0007187,nevoid basal cell carcinoma syndrome,-4.8082,-2.5662,1.423,0.3781,0.579,281,-2.8509
+107,MONDO_0023619,lentigo maligna melanoma,-4.8082,-2.4501,1.4102,0.3492,0.4555,261,-2.7835
+108,MONDO_0003912,malignant ciliary body melanoma,-4.8124,-2.6125,1.4102,0.3492,0.5899,1158,-3.5753
+109,MONDO_0044785,desmoplastic melanoma,-4.8152,-2.4501,1.4102,0.3492,0.4788,929,-3.4813
+110,MONDO_0004333,pancreatic ACTH-producing neuroendocrine tumor,-4.8182,-2.1412,1.4825,1.2693,0.3792,374,-2.9966
+111,MONDO_0015070,laryngeal neuroendocrine neoplasm,-4.8193,-1.9827,1.4825,1.2693,0.3817,1142,-3.5697
+112,MONDO_0021631,brain astrocytoma,-4.8194,-2.2693,1.4601,0.4617,0.3501,1051,-3.5288
+113,MONDO_0021650,uterine corpus neuroendocrine neoplasm,-4.824,-2.1412,1.4825,1.2693,0.4068,381,-3.0038
+114,EFO_1000325,Liver Neuroendocrine Tumor,-4.8245,-1.9798,1.4825,1.2693,0.3724,186,-2.5057
+115,EFO_1000188,Colon Neuroendocrine Tumor G1,-4.8246,-1.9795,1.4825,1.2693,0.3531,999,-3.5083
+116,EFO_1000224,Duodenal Gastrin-Producing Neuroendocrine Tumor,-4.8257,-1.9811,1.4825,1.2693,0.3711,495,-3.1691
+117,MONDO_0002485,breast neuroendocrine neoplasm,-4.8317,-1.9806,1.4825,1.2693,0.3654,810,-3.4197
+118,MONDO_0024673,skin lymphangioma,-4.8333,-2.5659,1.423,0.3781,0.5654,1025,-3.5175
+119,EFO_1000275,Gastric Neuroendocrine Tumor G1,-4.8379,-1.9799,1.4825,1.2693,0.3752,717,-3.3632
+120,MONDO_0003169,diencephalic astrocytomas,-4.84,-2.4844,1.4601,0.4617,0.4989,722,-3.3662
+121,MONDO_0021640,grade III glioma,-4.8403,-2.2295,1.4601,0.4617,0.3087,1264,-3.62
+122,EFO_0009260,non-melanoma skin carcinoma,-4.8435,-2.3458,1.4102,0.3492,0.3828,412,-3.0522
+123,MONDO_0002543,adult oligodendroglioma,-4.8598,-2.4844,1.4601,0.4617,0.498,700,-3.3511
+124,EFO_1000619,Vaginal Melanoma,-4.8614,-2.6115,1.4102,0.3492,0.5483,696,-3.3496
+125,EFO_1000529,Skin Basosquamous Cell Carcinoma,-4.8619,-2.4571,1.423,0.3781,0.4682,1362,-3.6634
+126,EFO_0002617,metastatic melanoma,-4.8624,-1.9329,1.4102,0.3492,0.0575,8,1.3658
+127,MONDO_0021534,rectal neuroendocrine tumor G1,-4.8652,-1.9799,1.4825,1.2693,0.3529,894,-3.4647
+128,MONDO_0003649,esophageal neuroendocrine tumor,-4.8667,-1.8885,1.4825,1.2693,0.2853,336,-2.9428
+129,EFO_1000398,Non-Functional Pancreatic Neuroendocrine Tumor,-4.8729,-1.9799,1.4825,1.2693,0.3631,476,-3.1461
+130,EFO_1001763,basal cell neoplasm,-4.8743,-2.2986,1.423,0.3781,0.3441,387,-3.0133
+131,MONDO_0005341,skin basal cell carcinoma,-4.8832,-2.3202,1.423,0.3781,0.3753,123,-1.8336
+132,MONDO_0021637,low grade glioma,-4.8874,-2.1878,1.4601,0.4617,0.2585,1748,-3.7984
+133,MONDO_0004064,iris melanoma,-4.8891,-2.6119,1.4102,0.3492,0.5299,708,-3.357
+134,EFO_0010176,keratinocyte carcinoma,-4.8899,-2.2986,1.423,0.3781,0.3344,345,-2.956
+135,MONDO_0021639,grade II glioma,-4.8938,-2.2509,1.4601,0.4617,0.304,1608,-3.7517
+136,MONDO_0003438,combined small cell lung carcinoma,-4.8945,-2.1508,1.4825,1.2693,0.4787,1462,-3.6975
+137,EFO_0002499,anaplastic astrocytoma,-4.8965,-2.3078,1.4601,0.4617,0.3255,129,-1.8689
+138,EFO_0002500,anaplastic oligoastrocytoma,-4.9029,-2.3202,1.4601,0.4617,0.3344,1687,-3.7809
+139,MONDO_0045070,digestive system melanoma,-4.9032,-2.6116,1.4102,0.3492,0.5219,683,-3.3347
+140,MONDO_0003978,colon small cell neuroendocrine carcinoma,-4.9079,-2.1515,1.4825,1.2693,0.467,2459,-4.0264
+141,MONDO_0004477,adrenal gland ganglioneuroblastoma,-4.9085,-2.2626,1.4825,1.2693,0.5421,2859,-4.3012
+142,MONDO_0002529,skin squamous cell carcinoma,-4.9123,-2.284,1.423,0.3781,0.2795,913,-3.4735
+143,EFO_0006545,brain glioblastoma,-4.9131,-2.3199,1.4601,0.4617,0.2969,154,-2.2834
+144,MONDO_0004091,skin basaloid carcinoma,-4.9173,-2.5692,1.423,0.3781,0.5121,976,-3.5
+145,MONDO_0002794,adult medulloblastoma,-4.9248,-2.4917,1.4601,0.4617,0.4368,1098,-3.5515
+146,EFO_1000092,Appendix Neuroendocrine Tumor G1,-4.9261,-1.981,1.4825,1.2693,0.3242,1292,-3.6362
+147,MONDO_0003091,cutaneous mucoepidermoid carcinoma,-4.9291,-2.5654,1.423,0.3781,0.4932,2118,-3.91
+148,MONDO_0015063,"duodenal neuroendocrine tumor, well differentiated, low or intermediate grade",-4.9315,-1.9791,1.4825,1.2693,0.2912,1248,-3.6132
+149,EFO_1000266,Gallbladder Small Cell Neuroendocrine Carcinoma,-4.933,-2.0988,1.4825,1.2693,0.3775,1638,-3.7622
+150,EFO_1000707,hemangioma of subcutaneous tissue,-4.9362,-2.5663,1.423,0.3781,0.509,801,-3.4153
+151,EFO_1000154,Cecum Neuroendocrine Tumor G1,-4.9422,-1.981,1.4825,1.2693,0.2987,1215,-3.5998
+152,MONDO_0017896,familial nonmedullary thyroid carcinoma,-4.9426,-2.2628,1.4825,1.2693,0.5065,2167,-3.9228
+153,EFO_1000080,Anal Melanoma,-4.9427,-2.6114,1.4102,0.3492,0.4758,777,-3.3983
+154,MONDO_0024340,retinal neuroblastoma,-4.9428,-2.2673,1.4825,1.2693,0.5227,1411,-3.6793
+155,EFO_1000442,Pancreatic Large Cell Neuroendocrine Carcinoma,-4.9472,-2.2624,1.4825,1.2693,0.5242,2393,-3.9998
+156,MONDO_0001129,nasal cavity olfactory neuroblastoma,-4.9478,-2.411,1.4825,1.2693,0.534,2119,-3.91
+157,EFO_0000630,oligoastrocytoma,-4.9484,-2.2817,1.4601,0.4617,0.279,842,-3.438
+158,EFO_1000171,Cervical Small Cell Carcinoma,-4.95,-2.1504,1.4825,1.2693,0.44,2510,-4.0517
+159,MONDO_0016685,low-grade astrocytoma,-4.9504,-2.4842,1.4601,0.4617,0.4173,1505,-3.7138
+160,MONDO_0015071,middle ear neuroendocrine tumor,-4.9511,-1.9797,1.4825,1.2693,0.2924,488,-3.1631
+161,MONDO_0015072,liver neuroendocrine carcinoma,-4.952,-2.0988,1.4825,1.2693,0.3692,2207,-3.9345
+162,MONDO_0003180,cutaneous adenocystic carcinoma,-4.9597,-2.4768,1.423,0.3781,0.4093,2059,-3.8889
+163,EFO_0009259,skin carcinoma,-4.963,-2.234,1.423,0.3781,0.2123,406,-3.0449
+164,MONDO_0002295,skin glomus tumor,-4.965,-2.7021,1.423,0.3781,0.4845,623,-3.2904
+165,MONDO_0016692,pilomyxoid astrocytoma,-4.9656,-2.4847,1.4601,0.4617,0.4202,1037,-3.5229
+166,MONDO_0016322,neuroendocrine cell hyperplasia of infancy,-4.9674,-1.978,1.4825,1.2693,0.2763,533,-3.2165
+167,MONDO_0003171,pineal gland astrocytoma,-4.9748,-2.6226,1.4601,0.4617,0.4264,613,-3.2844
+168,MONDO_0003168,cerebellar pilocytic astrocytoma,-4.9754,-2.4842,1.4601,0.4617,0.4031,1389,-3.6728
+169,MONDO_0858940,infant-type hemispheric glioma,-4.9771,-2.4923,1.4601,0.4617,0.384,426,-3.075
+170,MONDO_0018698,hereditary neuroendocrine tumor of small intestine,-4.9783,-1.9909,1.4825,1.2693,0.2701,232,-2.7116
+171,EFO_1000204,Conjunctival Melanoma,-4.9784,-2.6118,1.4102,0.3492,0.4372,795,-3.4119
+172,MONDO_0003165,cerebellar astrocytoma,-4.9872,-2.4845,1.4601,0.4617,0.3928,1252,-3.6151
+173,MONDO_0015073,"gallbladder neuroendocrine tumor, grade 1/2",-4.994,-1.9791,1.4825,1.2693,0.2634,768,-3.3909
+174,MONDO_0016691,pilocytic astrocytoma,-5.0003,-2.4843,1.4601,0.4617,0.3828,944,-3.4874
+175,EFO_0003094,ganglioglioma,-5.0023,-2.484,1.4601,0.4617,0.3888,1412,-3.6795
+176,MONDO_0002167,rectum malignant melanoma,-5.0037,-2.6113,1.4102,0.3492,0.429,721,-3.3656
+177,MONDO_0021535,pancreatic neuroendocrine tumor G1,-5.0045,-1.983,1.4825,1.2693,0.2464,430,-3.0836
+178,MONDO_0003029,skin angiosarcoma,-5.0127,-2.5678,1.423,0.3781,0.4338,549,-3.2271
+179,MONDO_0020638,superficial spreading melanoma,-5.0128,-2.4504,1.4102,0.3492,0.309,584,-3.2599
+180,EFO_1000885,cutaneous fibrous histiocytoma,-5.0135,-2.4778,1.423,0.3781,0.3626,1770,-3.8059
+181,MONDO_0007958,familial medullary thyroid carcinoma,-5.0137,-2.2623,1.4825,1.2693,0.4223,1056,-3.5311
+182,EFO_1001927,cutaneous squamous cell carcinoma,-5.0161,-2.2993,1.423,0.3781,0.2649,680,-3.3317
+183,MONDO_0003153,adult brainstem glioma,-5.0198,-2.6226,1.4601,0.4617,0.383,715,-3.3623
+184,MONDO_0003327,peripheral ganglioneuroblastoma,-5.0213,-2.2626,1.4825,1.2693,0.4708,2791,-4.223
+185,MONDO_0003690,adult anaplastic ependymoma,-5.0225,-2.6226,1.4601,0.4617,0.3732,494,-3.1688
+186,MONDO_0018453,familial atypical multiple mole melanoma syndrome,-5.0237,-2.6126,1.4102,0.3492,0.4345,1283,-3.6317
+187,MONDO_0003959,breast large cell neuroendocrine carcinoma,-5.026,-2.2654,1.4825,1.2693,0.4516,1755,-3.8009
+188,MONDO_0002542,spinal cord glioma,-5.029,-2.4849,1.4601,0.4617,0.3564,1964,-3.8507
+189,MONDO_0016690,pleomorphic xanthoastrocytoma,-5.0309,-2.4843,1.4601,0.4617,0.3673,1937,-3.8428
+190,MONDO_0007116,hereditary neurocutaneous angioma,-5.0323,-2.5666,1.423,0.3781,0.4401,531,-3.216
+191,EFO_1000385,Mixed Tumor of the Skin,-5.0331,-2.5661,1.423,0.3781,0.4168,1852,-3.8252
+192,EFO_1000546,Spindle Cell Melanoma,-5.0335,-2.4244,1.4102,0.3492,0.3063,1429,-3.6852
+193,MONDO_0022963,desmoplastic infantile astrocytoma,-5.0337,-2.4841,1.4601,0.4617,0.3552,2538,-4.0681
+194,MONDO_0005499,brain glioma,-5.0348,-2.3189,1.4601,0.4617,0.2203,911,-3.473
+195,MONDO_0024649,optic tract astrocytoma,-5.035,-2.4853,1.4601,0.4617,0.3644,969,-3.4954
+196,EFO_0008515,nodular melanoma,-5.0384,-2.4504,1.4102,0.3492,0.3006,338,-2.9458
+197,MONDO_0957196,"diffuse midline glioma, H3 K27M-mutant",-5.0455,-2.6226,1.4601,0.4617,0.3621,658,-3.3157
+198,MONDO_0002973,epithelioid cell melanoma,-5.0489,-2.5022,1.4102,0.3492,0.3383,456,-3.1202
+199,EFO_0008495,childhood supratentorial ependymoma,-5.0494,-2.4834,1.4601,0.4617,0.3402,2693,-4.1506
+200,MONDO_0004484,gallbladder melanoma,-5.0498,-2.7442,1.4102,0.3492,0.426,505,-3.1854
